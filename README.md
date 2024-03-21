@@ -39,5 +39,5 @@
 </div>
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakvindu05&show_icons=true&theme=radical)
 <br><br>
